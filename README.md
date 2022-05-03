@@ -4,7 +4,7 @@ Meu primeiro projeto com flutter
 
 ## Getting Started
 
-Este projeto é o ponto de partida para meu desenvolvimento com flutter.
+Este aplicativo, mostra na tela um número que pode ser incrementado ou decrementado, através dos botões (azul e vermelho, respectivamente) e além disso, possui um terceiro botão que retorna o número a zero.
 
   
 ## Screenshots
